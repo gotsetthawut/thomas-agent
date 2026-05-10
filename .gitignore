@@ -1,0 +1,10 @@
+# Local vault (not committed to repo - managed by KIM)
+kim-vault/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
